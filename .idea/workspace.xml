@@ -20,14 +20,14 @@
     <favorites_list name="ChristmasWishCard-Dec2013-MyVeryFirst-HTML-Page" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.48239654">
+    <splitter split-orientation="horizontal" split-proportion="0.3959234">
       <split-first>
         <leaf>
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.3194726">
-                  <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+                <state vertical-scroll-proportion="0.5020284">
+                  <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
@@ -73,7 +73,7 @@
           <file leaf-file-name="snowfall.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/js/snowfall.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.045638945">
+                <state vertical-scroll-proportion="-0.36916837">
                   <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
                   <folding />
                 </state>
@@ -286,7 +286,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/snowfall.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.045638945">
+        <state vertical-scroll-proportion="-0.36916837">
           <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
           <folding />
         </state>
@@ -302,8 +302,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3194726">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.5020284">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
           <folding />
         </state>
       </provider>
