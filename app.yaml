@@ -9,14 +9,14 @@ handlers:
 # Handle the main page by serving the index page.
 # Note the $ to specify the end of the path, since app.yaml does prefix matching.
 - url: /$
-  static_files: public/index.html
-  upload: public/index.html
+  static_files: public/home.html
+  upload: public/home.html
 
 
-# Handle folder urls by serving the index.html page inside.
+# Handle folder urls by serving the index.html page (in this particular case its home.html) inside.
 - url: /(.*)/$
-  static_files: public/\1/index.html
-  upload: public/.*/index.html
+  static_files: public/\1/home.html
+  upload: public/.*/home.html
 
 # Handle nearly every other file by just serving it.
 - url: /(.+)
