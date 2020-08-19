@@ -1,5 +1,5 @@
-A nice and simple christmas wish card project implementing [codecademy's tutorial](https://www.codecademy.com/courses/web-beginner-en-9xjis/0/1).
+A nice and simple christmas-wish project.
 
-A working version is running in [Heroku](https://afternoon-escarpment-8807.herokuapp.com)
+While I deployed to [Heroku](https://afternoon-escarpment-8807.herokuapp.com) - But Heroku loads the high-resolution images very very late, to the extent its almost unusable.
 
-Or localy you can run by double clicking `public/home.html`
+Better to run localy you can run by double clicking `public/home.html`
